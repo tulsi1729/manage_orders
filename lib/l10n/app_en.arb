@@ -1,0 +1,18 @@
+{
+    "language" : "English",
+    "@language": {
+        "description": "The current Language"
+    },
+    "helloWorld" : "Hello World!",
+    "@helloWorld":{
+        "description": "A programmer greeting"
+    },
+    "homeTitle" : "Home",
+    "createNewOrderTitle" : "Create New Order",
+    "orderNameRequiredMessage": "Enter Name",
+    "orderAddressRequiredMessage": "Enter Address",
+    "orderDecidedAmountRequiredMessage": "Enter Price",
+    "orderTimeRequiredMessage": "Enter Time",
+    "orderSubmitMessage" : "Submit",
+    "editOrderTitle" : "Edit Order"
+}

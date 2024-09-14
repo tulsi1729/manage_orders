@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "793403757182",
+    "project_id": "manage-super-orders",
+    "storage_bucket": "manage-super-orders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793403757182:android:ef3e425c89ce487bcefe2f",
+        "android_client_info": {
+          "package_name": "com.example.manage_orders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793403757182-o18ug2pg15ie132dgs513qlmgmnvc4tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjuAc4WIyAnUZS0gWY_jFZnwlScOcS960"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793403757182-o18ug2pg15ie132dgs513qlmgmnvc4tr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793403757182-6rv2g706lh81kmb3qg22u25f1all6464.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.manageOrders"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
